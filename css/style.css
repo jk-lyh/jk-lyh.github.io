@@ -1047,9 +1047,9 @@ figure.effect-bubba:hover p {
     color: #041735;
     font-weight: 600;
 }
-
 .skill h3 {
     margin-bottom: 20px;
+    line-height: 60px;
 }
 
 /*about me*/
